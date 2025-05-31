@@ -1,10 +1,10 @@
-# Hi 👋 My name is Alisa Zarina
+# Hi 👋 My name is Alisa Zarina 👩🏻‍💻
 
-### Software Engineer | AI/ML & UI/UX Enthusiast
+### Software Engineer | AI/ML & UI/UX Enthusiast 🤖🎨
 
 ---
 
-I’m an ambitious and curious IT graduate with a background in Software Engineering and hands-on experience in mobile & web development, UI/UX design, cloud tech, and data analytics.
+I’m an ambitious and curious IT graduate with a major in Software Engineering and hands-on experience in mobile & web development, UI/UX design, cloud tech, and data analytics.
 
 I'm passionate about building thoughtful, user-centric solutions—especially at the intersection of design, technology, and business. Whether it’s developing a prototype, collaborating with like-minded tech enthusiasts, or diving into data, I love solving problems that make an impact.
 
