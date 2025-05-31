@@ -6,7 +6,7 @@
 
 I’m an ambitious and curious IT graduate with a background in Software Engineering and hands-on experience in mobile & web development, UI/UX design, cloud tech, and data analytics.
 
-I'm passionate about building thoughtful, user-centric solutions—especially at the intersection of design, technology, and business. Whether it’s developing a prototype, collaborative with like-minded tech enthusiasts, or diving into data, I love solving problems that make an impact.
+I'm passionate about building thoughtful, user-centric solutions—especially at the intersection of design, technology, and business. Whether it’s developing a prototype, collaborating with like-minded tech enthusiasts, or diving into data, I love solving problems that make an impact.
 
 🚀 My journey so far includes:
 - AI/ML and automation projects
