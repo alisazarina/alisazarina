@@ -13,7 +13,7 @@ I'm passionate about building thoughtful, user-centric solutions—especially at
 - Real-world tech initiatives
 - An international exchange in Germany
 
-📚 I'm constantly learning—currently advancing my skills in:
+📚 I'm constantly learning and currently advancing my skills in:
 - Data analytics
 - GenerativeAI
 - App development
