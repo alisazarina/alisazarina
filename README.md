@@ -15,6 +15,7 @@ I'm passionate about building thoughtful, user-centric solutions—especially at
 
 📚 I'm constantly learning—currently advancing my skills in:
 - Data analytics
+- GenerativeAI
 - App development
 - Software engineering (through mentorships and self-driven projects)
 
