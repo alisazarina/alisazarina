@@ -77,7 +77,6 @@ I enjoy working at the intersection of data, systems and people — translating 
 </p>
 
 > 💡 Also working with: **MS SQL Server · Looker Studio · Power BI · Tableau · Airflow · Vertex AI · Google AI Studio · Streamlit**
-> *(Icons not yet available in the standard library — listed here for visibility)*
 
 ---
 
@@ -89,11 +88,5 @@ I enjoy working at the intersection of data, systems and people — translating 
   </a>
   <a href="https://www.linkedin.com/in/alisazarina" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.x.com/alisazrna" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/twitter-colored.svg" width="32" height="32" alt="X / Twitter" />
-  </a>
-  <a href="https://discord.com/users/slowliz" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>
 </p>
