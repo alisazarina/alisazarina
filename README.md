@@ -1,36 +1,45 @@
-# Hi 👋 My name is Alisa Zarina 👩🏻‍💻
+# Hi 👋 I'm Alisa Zarina
 
-### Software Engineer | AI/ML & UI/UX Enthusiast 🤖🎨
+### Data Analyst & System Specialist | GCP · SQL · Looker Studio · Python 📊
 
 ---
 
-I’m an ambitious and curious IT graduate with a major in Software Engineering and hands-on experience in mobile & web development, UI/UX design, cloud tech, and data analytics.
+I'm a data-driven IT professional with experience delivering end-to-end analytics solutions in a media enterprise environment — from building production dashboards and engineering BigQuery SQL pipelines, to leading system requirements gathering and resolving high-impact data incidents.
 
-I'm passionate about building thoughtful, user-centric solutions—especially at the intersection of design, technology, and business. Whether it’s developing a prototype, collaborating with like-minded tech enthusiasts, or diving into data, I love solving problems that make an impact.
+I enjoy working at the intersection of data, systems and people — translating messy, complex data into clear insights that actually get used.
 
-🚀 My journey so far includes:
-- Cross-platform mobile & web applications
-- Real-world tech initiatives
-- An international exchange in Germany
+🏢 Currently at **Media Prima Berhad (Group IT)** as a **System Specialist (Data & Analytics)**, where I:
+- Build multi-page revenue analytics dashboards in **Looker Studio + BigQuery**
+- Design and validate data pipelines across cloud and on-premise SQL environments
+- Lead requirements gathering and documentation for new internal systems
+- Investigate and resolve data discrepancies across enterprise reporting pipelines
 
-📚 I'm constantly learning and currently advancing my skills in:
-- Data analytics
-- GenerativeAI
-- App development
-- Software engineering (through mentorships and self-driven projects)
+🚀 Notable work includes:
+- 5-page TVN Revenue Dashboard (40+ charts, BigQuery SQL view + blended forecasting query)
+- End-to-end requirements documentation for a new internal billing system across 3 departments
+- Python-based REST API data ingestion pipeline from a public government data catalogue into BigQuery
+- Tracing and resolving a RM445,000 revenue discrepancy across cloud storage, SQL and pipeline tools
 
-I thrive in collaborative, diverse environments and am now looking for entry-level software engineering roles where I can **learn**, **grow**, and **contribute** to meaningful work.
+📚 Currently deepening expertise in:
+- Advanced SQL and data modelling
+- AI-powered analytics (Gemini Enterprise, Vertex AI agents)
+- Google Cloud Platform ecosystem
 
-🤝 Let’s build something great together!
+🏆 Highlights:
+- **Google Data Analytics Professional Certificate** (2025)
+- **Microsoft Code; Without Barriers Mentee** under Jay Lee, Senior Architect (DevOps & Cloud-Native)
+- **Gold Award** — International Invention & Innovative Competition 2024 (MindConnect App)
+- **Google Project Management Professional Certificate** (2024)
+- International exchange at **TH Rosenheim, Germany** (2024)
 
 ---
 
 ### 📍 About Me
 
-- 🌍 Based in: **Malaysia**  
-- ✉️ Email: [alisa.nazmi@gmail.com](mailto:alisa.nazmi@gmail.com)  
-- 🧠 Learning: **Data Analytics (Google Cert), React, Next.js, TailwindCSS, MySQL, GenAI integration**  
-- ⚡ Recently chosen for: **Microsoft's Code; Without Barriers Mentorship** under *Jay Lee (DevOps & App Development)*  
+- 🌍 Based in: **Petaling Jaya, Malaysia**
+- ✉️ Email: [alisa.nazmi@gmail.com](mailto:alisa.nazmi@gmail.com)
+- 💼 Open to: **Data Analyst / BI Analyst roles**
+- 🧠 Currently exploring: **Gemini Enterprise, Vertex AI, agentic automation**
 
 ---
 
@@ -38,45 +47,43 @@ I thrive in collaborative, diverse environments and am now looking for entry-lev
 
 <p align="left">
   <!-- Programming Languages -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+
+  <!-- Data & Analytics -->
+  <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="BigQuery / GCP" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
   <!-- Web & App Development -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
-  <!-- Tools & Platforms -->
+  <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 
   <!-- Design -->
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://wordpress.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-  <a href="https://wix.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
 </p>
+
+> 💡 Also working with: **MS SQL Server · Looker Studio · Power BI · Tableau · Airflow · Vertex AI · Google AI Studio · Streamlit**
+> *(Icons not yet available in the standard library — listed here for visibility)*
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://discord.com/users/slowliz" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-  </a>
   <a href="https://www.github.com/alisazarina" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
@@ -84,6 +91,9 @@ I thrive in collaborative, diverse environments and am now looking for entry-lev
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.x.com/alisazrna" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X / Twitter" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/twitter-colored.svg" width="32" height="32" alt="X / Twitter" />
+  </a>
+  <a href="https://discord.com/users/slowliz" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>
 </p>
