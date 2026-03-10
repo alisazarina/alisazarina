@@ -6,7 +6,7 @@
 
 I'm a data-driven IT professional with experience delivering end-to-end analytics solutions in a media enterprise environment — from building production dashboards and engineering BigQuery SQL pipelines, to leading system requirements gathering and resolving high-impact data incidents.
 
-I enjoy working at the intersection of data, systems and people — translating messy, complex data into clear insights that actually get used.
+I enjoy working at the intersection of data, systems and people — translating messy, complex data into clear, actionable insights.
 
 🏢 Currently at **Media Prima Berhad (Group IT)** as a **System Specialist (Data & Analytics)**, where I:
 - Build multi-page revenue analytics dashboards in **Looker Studio + BigQuery**
