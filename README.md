@@ -2,7 +2,7 @@
 
 ### Data Analyst & System Specialist | GCP · SQL · Looker Studio · Python 📊
 
-I build end-to-end data solutions; from engineering BigQuery pipelines to delivering production dashboads and solving real-world data issues.
+I build end-to-end data solutions; from engineering BigQuery pipelines to delivering production dashboads and solving real-world data issues. With my software engineering and creative background, I also like creating AI-powered solutions.
 
 I enjoy working at the intersection of data, systems and people — translating messy, complex data into clear, actionable insights.
 
@@ -23,11 +23,11 @@ I enjoy working at the intersection of data, systems and people — translating 
 - ⁠Lead *requirements gathering & documentation* for internal tools
 - Investigate and resolve *data discrepancies* in production systems
 
-
 📚 Currently deepening expertise in:
 - Advanced SQL and data modelling
 - AI-powered analytics (Gemini Enterprise, Vertex AI agents)
 - Cloud data workflows on GCP
+- Creating AI-powered applications
 
 🏆 Highlights:
 - **Google Data Analytics Professional Certificate** (2025)
