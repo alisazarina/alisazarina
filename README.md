@@ -2,6 +2,10 @@
 
 ### Data Analyst & System Specialist | GCP · SQL · Looker Studio · Python 📊
 
+I build end-to-end data solutions — from engineering BigQuery pipelines to delivering production dashboads and solving real-world data issues.
+
+I enjoy working at the intersection of data, systems and people — translating messy, complex data into clear, actionable insights.
+
 ---
 
 ### 📍 About Me
@@ -13,26 +17,17 @@
 
 ---
 
-I'm a data-driven IT professional with experience delivering end-to-end analytics solutions in a media enterprise environment — from building production dashboards and engineering BigQuery SQL pipelines, to leading system requirements gathering and resolving high-impact data incidents.
+🔧 What I do:
+•⁠  ⁠Build analytics dashboards using *Looker Studio + BigQuery*
+•⁠  ⁠Design and validate *data pipelines* across cloud & on-prem systems
+•⁠  ⁠Lead *requirements gathering & documentation* for internal tools
+•⁠  ⁠Investigate and resolve *data discrepancies* in production systems
 
-I enjoy working at the intersection of data, systems and people — translating messy, complex data into clear, actionable insights.
-
-🏢 Currently at **Media Prima Berhad (Group IT)** as a **System Specialist (Data & Analytics)**, where I:
-- Build multi-page revenue analytics dashboards in **Looker Studio + BigQuery**
-- Design and validate data pipelines across cloud and on-premise SQL environments
-- Lead requirements gathering and documentation for new internal systems
-- Investigate and resolve data discrepancies across enterprise reporting pipelines
-
-🚀 Notable work includes:
-- 5-page TVN Revenue Dashboard (40+ charts, BigQuery SQL view + blended forecasting query)
-- End-to-end requirements documentation for a new internal billing system across 3 departments
-- Python-based REST API data ingestion pipeline from a public government data catalogue into BigQuery
-- Tracing and resolving a RM445,000 revenue discrepancy across cloud storage, SQL and pipeline tools
 
 📚 Currently deepening expertise in:
 - Advanced SQL and data modelling
 - AI-powered analytics (Gemini Enterprise, Vertex AI agents)
-- Google Cloud Platform ecosystem
+- Cloud data workflows on GCP
 
 🏆 Highlights:
 - **Google Data Analytics Professional Certificate** (2025)
