@@ -4,6 +4,15 @@
 
 ---
 
+### 📍 About Me
+
+- 🌍 Based in: **Petaling Jaya, Malaysia**
+- ✉️ Email: [alisa.nazmi@gmail.com](mailto:alisa.nazmi@gmail.com)
+- 💼 Open to: **Data Analyst / BI Analyst / System Analyst roles**
+- 🧠 Currently exploring: **Gemini Enterprise, Vertex AI, agentic automation**
+
+---
+
 I'm a data-driven IT professional with experience delivering end-to-end analytics solutions in a media enterprise environment — from building production dashboards and engineering BigQuery SQL pipelines, to leading system requirements gathering and resolving high-impact data incidents.
 
 I enjoy working at the intersection of data, systems and people — translating messy, complex data into clear, actionable insights.
@@ -31,15 +40,6 @@ I enjoy working at the intersection of data, systems and people — translating 
 - **Gold Award** — International Invention & Innovative Competition 2024 (MindConnect App)
 - **Google Project Management Professional Certificate** (2024)
 - International exchange at **TH Rosenheim, Germany** (2024)
-
----
-
-### 📍 About Me
-
-- 🌍 Based in: **Petaling Jaya, Malaysia**
-- ✉️ Email: [alisa.nazmi@gmail.com](mailto:alisa.nazmi@gmail.com)
-- 💼 Open to: **Data Analyst / BI Analyst roles**
-- 🧠 Currently exploring: **Gemini Enterprise, Vertex AI, agentic automation**
 
 ---
 
