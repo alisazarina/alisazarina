@@ -2,7 +2,7 @@
 
 ### Data Analyst & System Specialist | GCP · SQL · Looker Studio · Python 📊
 
-I build end-to-end data solutions — from engineering BigQuery pipelines to delivering production dashboads and solving real-world data issues.
+I build end-to-end data solutions; from engineering BigQuery pipelines to delivering production dashboads and solving real-world data issues.
 
 I enjoy working at the intersection of data, systems and people — translating messy, complex data into clear, actionable insights.
 
@@ -18,10 +18,10 @@ I enjoy working at the intersection of data, systems and people — translating 
 ---
 
 🔧 What I do:
-•⁠  ⁠Build analytics dashboards using *Looker Studio + BigQuery*
-•⁠  ⁠Design and validate *data pipelines* across cloud & on-prem systems
-•⁠  ⁠Lead *requirements gathering & documentation* for internal tools
-•⁠  ⁠Investigate and resolve *data discrepancies* in production systems
+- Build analytics dashboards using *Looker Studio + BigQuery*
+- ⁠Design and validate *data pipelines* across cloud & on-prem systems
+- ⁠Lead *requirements gathering & documentation* for internal tools
+- Investigate and resolve *data discrepancies* in production systems
 
 
 📚 Currently deepening expertise in:
