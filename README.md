@@ -23,11 +23,13 @@ I enjoy working at the intersection of data, systems and people — translating 
 - ⁠Lead *requirements gathering & documentation* for internal tools
 - Investigate and resolve *data discrepancies* in production systems
 
+
 📚 Currently deepening expertise in:
 - Advanced SQL and data modelling
 - AI-powered analytics (Gemini Enterprise, Vertex AI agents)
 - Cloud data workflows on GCP
 - Creating AI-powered applications
+
 
 🏆 Highlights:
 - **Google Data Analytics Professional Certificate** (2025)
