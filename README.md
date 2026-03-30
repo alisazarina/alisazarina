@@ -2,7 +2,7 @@
 
 ### Data Analyst & System Specialist | GCP · SQL · Looker Studio · Python 📊
 
-I build end-to-end data solutions; from engineering BigQuery pipelines to delivering production dashboads and solving real-world data issues. With my software engineering and creative background, I also like creating aesthetically-pleasing and user-friendly AI-powered apps and solutions.
+I build end-to-end data solutions; from engineering BigQuery pipelines to delivering production dashboads and solving real-world data issues. With my software engineering and creative background, I also like creating user-friendly AI-powered apps and solutions.
 
 I enjoy working at the intersection of data, systems and people — translating messy, complex data into clear, actionable insights.
 
